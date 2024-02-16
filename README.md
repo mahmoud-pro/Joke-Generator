@@ -3,7 +3,7 @@
 This is a simple joke app generator that fetches Chuck Norris jokes from the Chuck Norris Jokes API (https://api.chucknorris.io/jokes/random). Chuck Norris jokes are known for their humorous and often exaggerated statements about the toughness, strength, and superhuman abilities of Chuck Norris.
 
 
-![Joke App Generator](/images/app.PNG)
+![Joke App Generator](./app.PNG)
 
 ## Features
 
